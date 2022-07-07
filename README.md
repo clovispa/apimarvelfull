@@ -1,4 +1,23 @@
-# testclovispaternin
+# testclovispaternin 
+
+#Clovis Paternina Franco
+
+## Dependencias 
+
+Instalar :
+
+1. Node js
+```
+https://nodejs.org/es/
+```
+
+2.  vue 2 js
+```
+ https://vuejs.org/
+ 
+```
+
+## Comandos para correr el proyecto en http://localhost/:
 
 ## Project setup
 ```
